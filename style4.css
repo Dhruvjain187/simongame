@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+.boxes {
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.first {
+    background-color: #ffc8dd;
+}
+
+.second {
+    background-color: #f9c74f;
+}
+
+.third {
+    background-color: #d9ed92;
+}
+
+.fourth {
+    background-color: #90e0ef;
+}
+
+.flash {
+    background-color: white;
+}
+
+.user {
+    background-color: greenyellow;
+}
